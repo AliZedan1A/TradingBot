@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "trading_bot_3", "trading_bot_3.csproj", "{466289EB-B4EE-41E8-B6F3-AB79E60E5340}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3B8C885D-55EB-4617-9EE7-121862AEE210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{466289EB-B4EE-41E8-B6F3-AB79E60E5340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466289EB-B4EE-41E8-B6F3-AB79E60E5340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466289EB-B4EE-41E8-B6F3-AB79E60E5340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466289EB-B4EE-41E8-B6F3-AB79E60E5340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E56E592A-8744-4A9C-9ACD-668E5EE91239}
+	EndGlobalSection
+EndGlobal
